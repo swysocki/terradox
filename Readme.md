@@ -1,3 +1,5 @@
+> **_NOTE:_** this project was useful when `terraform-docs` didn't support Terraform version 0.12 syntax. I highly recommend https://github.com/terraform-docs/terraform-docs now.
+
 # Terradox
 
 Convert Terraform variables and outputs to Markdown tables
